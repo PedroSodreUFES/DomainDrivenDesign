@@ -1,3 +1,5 @@
 # DomainDrivenDesign
-API for a forum applying DDD and Clean Architecture
-## main technologies:
+API para um fórum de perguntas e respostas 
+
+
+## Main technologies:
