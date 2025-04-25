@@ -1,5 +1,5 @@
 # DomainDrivenDesign
-> Estudo de API com DDD e Clean Architecture para um fórum de perguntas e respostas aplicando testes in-memory.
+Estudo de API com DDD e Clean Architecture para um fórum de perguntas e respostas aplicando testes in-memory.
 ## Tecnologias e conceitos utilizados
 + Conceitos
     1. Watched lists
