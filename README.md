@@ -1,5 +1,2 @@
 # DomainDrivenDesign
-API para um fórum de perguntas e respostas 
-
-
-## Main technologies:
+> Estudo de API com DDD e Clean Architecture para um fórum de perguntas e respostas aplicando testes in-memory.
